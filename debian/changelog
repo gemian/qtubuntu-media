@@ -1,3 +1,9 @@
+qtubuntu-media (0.8.2+gemian) stretch; urgency=medium
+
+  * Building for gemian.
+
+ -- Adam Boardman <adamboardman@gmail.com>  Mon, 4 Feb 2019 16:40:00 +0000
+
 qtubuntu-media (0.8.2+ubports) xenial; urgency=medium
 
   * Imported to UBports
