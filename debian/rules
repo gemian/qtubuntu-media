@@ -4,6 +4,7 @@
 include /usr/share/dpkg/default.mk
 
 export DPKG_GENSYMBOLS_CHECK_LEVEL = 4
+export QT_SELECT=qt5
 export QT_QPA_PLATFORM = minimal
 
 %:
